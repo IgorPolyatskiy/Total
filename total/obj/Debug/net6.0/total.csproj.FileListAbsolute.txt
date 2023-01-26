@@ -1,0 +1,15 @@
+C:\Total1\total\bin\Debug\net6.0\total.exe
+C:\Total1\total\bin\Debug\net6.0\total.deps.json
+C:\Total1\total\bin\Debug\net6.0\total.runtimeconfig.json
+C:\Total1\total\bin\Debug\net6.0\total.dll
+C:\Total1\total\bin\Debug\net6.0\total.pdb
+C:\Total1\total\obj\Debug\net6.0\total.csproj.AssemblyReference.cache
+C:\Total1\total\obj\Debug\net6.0\total.GeneratedMSBuildEditorConfig.editorconfig
+C:\Total1\total\obj\Debug\net6.0\total.AssemblyInfoInputs.cache
+C:\Total1\total\obj\Debug\net6.0\total.AssemblyInfo.cs
+C:\Total1\total\obj\Debug\net6.0\total.csproj.CoreCompileInputs.cache
+C:\Total1\total\obj\Debug\net6.0\total.dll
+C:\Total1\total\obj\Debug\net6.0\refint\total.dll
+C:\Total1\total\obj\Debug\net6.0\total.pdb
+C:\Total1\total\obj\Debug\net6.0\total.genruntimeconfig.cache
+C:\Total1\total\obj\Debug\net6.0\ref\total.dll
